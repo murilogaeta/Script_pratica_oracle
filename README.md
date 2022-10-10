@@ -1,0 +1,1 @@
+# Script_pratica_oracle
