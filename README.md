@@ -1,4 +1,6 @@
 # Script_pratica_oracle
+
+## Modelagem de um Hospital 
 CREATE TABLE PACIENTE (
 
     COD_PAC NUMBER(4),
